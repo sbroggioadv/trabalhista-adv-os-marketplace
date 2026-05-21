@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temp
+tmp/
+*.tmp

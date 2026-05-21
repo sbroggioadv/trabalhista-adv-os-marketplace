@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "trabalhista-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Trabalhista-Adv-OS. Plugin Claude Code especializado em Direito e Processo do Trabalho brasileiro, side-aware para os dois polos da Reclamacao Trabalhista.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "trabalhista-adv-os",
+      "source": "./trabalhista-adv-os",
+      "description": "Plugin Claude Code especializado em Direito e Processo do Trabalho brasileiro. Atende os dois polos da Reclamacao Trabalhista — reclamante e reclamada — com orquestrador side-aware, triagem trilateral, auditoria de documentos, 32 skills (Tier 0/1/2/3), Suprema Corte R1-R4 e busca viva de jurisprudencia. Hierarquia de 4 camadas: 25 Proibicoes Absolutas, 7 Protocolos Tecnicos, identidade FIRAC e skills operacionais.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}
