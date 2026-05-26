@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Plugin Claude Code especializado em Direito e Processo do Trabalho brasileiro. Atende os dois polos da Reclamacao Trabalhista — reclamante e reclamada — com orquestrador side-aware, triagem trilateral, auditoria de documentos, 32 skills (Tier 0/1/2/3), Suprema Corte R1-R4 e busca viva de jurisprudencia. Hierarquia de 4 camadas: 25 Proibicoes Absolutas, 7 Protocolos Tecnicos, identidade FIRAC e skills operacionais. Onboarding via /start-trabalhista. 100% configuravel ao perfil do escritorio em runtime.",
   "author": {
-    "name": "IA Combativa Adv-OS"
+    "name": "Sbroggio Advocacia & IA Combativa"
   },
   "license": "MIT"
 }
