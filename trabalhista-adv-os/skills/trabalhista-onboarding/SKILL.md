@@ -4,6 +4,8 @@ description: >
   TRABALHISTA ONBOARDING — Wizard de configuracao do plugin trabalhista no ambiente do operador. Conduz perguntas estruturadas para criar a pasta trabalhista/ com identidade (nome, OAB, escritorio, cidade), polos de atuacao (reclamante/reclamada/ambos), especialidades, tom de voz, modo de fluxo (checkpoint/continuo) e ferramentas. Wizard travado em TRABALHISTA. Use quando o operador disser configurar trabalhista, instalar trabalhista, primeira vez, /start-trabalhista, onboarding trabalhista.
 ---
 
+> **🖱️ Escolhas = botoes:** em campos de **lista fechada** (AREA_FOCO, tom, modo, atualizar/recriar, sim/nao) use a ferramenta **AskUserQuestion** para mostrar **botoes clicaveis** (max. 4 por pergunta; se houver mais, divida em 2). **Texto livre** (nome, OAB, cidade, e-mail) segue como pergunta digitada normal.
+
 # TRABALHISTA ONBOARDING
 
 > Wizard de configuracao inicial **Tier 0**. Travado em TRABALHISTA. Linguagem acolhedora, tom didatico. Conduz o operador a configurar o plugin ao perfil do escritorio.
