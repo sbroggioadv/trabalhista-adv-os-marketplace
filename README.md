@@ -16,6 +16,22 @@
 > 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
 
 
+> ## ⚖️ Este repositório NÃO é software livre
+>
+> O código fica visível para viabilizar a instalação no Claude/Cowork — não porque seja gratuito.
+>
+> **TRABALHISTA ADV-OS — R$ 198,00, pagamento único** (sem assinatura, sem recorrência)
+> 👉 **[Adquirir a licença](https://pay.kirvano.com/c85e12ea-3ff8-46bb-a407-0396429341f0)**
+>
+> **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+>
+> Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
+>
+> **Já comprou?** Nada a fazer — sua licença cobre o uso e o fork para instalação. Este aviso vale de
+> 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
+
+
 Marketplace oficial do plugin **`trabalhista-adv-os`** — assistente Claude Code especializado em **Direito e Processo do Trabalho brasileiro**.
 
 O plugin cobre o ciclo completo de um caso trabalhista — da análise dos documentos do cliente à peça final auditada — e atende **os dois polos** da Reclamação Trabalhista:
